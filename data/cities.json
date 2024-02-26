@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "PT",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "ES",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "DE",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "941f",
+      "cityName": "Altarejos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-02-23T07:50:19.592Z",
+      "notes": "yaye",
+      "position": {
+        "lat": "39.90631417720269",
+        "lng": "-2.349192221266925"
+      }
+    },
+    {
+      "id": "bbb8",
+      "cityName": "Keshpur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-02-25T17:34:05.425Z",
+      "notes": "",
+      "position": {
+        "lat": "22.54884879547073",
+        "lng": "87.43258681421956"
+      }
+    }
+  ]
+}
